@@ -48,16 +48,3 @@ order by milliseconds desc;
 
 
 
-
-
-
-
-
-
-
-
-Data Analysis SQL Project Complete SQL project | Airline.....
-DATA ANALYST
-SQL PROIECT
-Tech Classes
-55K 
